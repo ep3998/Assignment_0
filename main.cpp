@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 
   // Litte extra piece of UI used to show how layout works.
   // Will be useful in Assignment 1.
-  QLabel welcome("If you can see this message.\nQt is working.");
+  QLabel welcome("If you see this message, means git finally is working.");
   welcome.setAlignment(Qt::AlignHCenter | Qt::AlignVCenter);
 
   // A container to arrange widgets in a vertical/column type fashion.
